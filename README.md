@@ -7,5 +7,7 @@ I am a software tester from Krakow
 - [x] Love tracking logical errors and suggest solutions that improve product quality and UX<br>
 - [x] I taught myself HTML, CSS and I’m currently learning Python to develop my skills in test automation<br>
 
+
 Connect with me<br>
-<br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/natelapolicht/)
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/natelapolicht/)
