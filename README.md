@@ -1,5 +1,5 @@
 # Natela Policht - PORTFOLIO
-### Hello World
+### Hello there👋
 I am a software tester from Krakow
 <br>
 - Transition to Software Testing in April 2024<br>
