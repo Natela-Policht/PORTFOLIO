@@ -6,3 +6,4 @@ I am a software tester from Krakow
 Reported 600 bugs, resolved 1200+ issues<br>
 Love tracking logical errors and suggest solutions that improve product quality and UX<br>
 I taught myself HTML, CSS and I’m currently learning Python to develop my skills in test automation
+<br>## Connect with me[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/mohammad-faisal-2665b5134](https://www.linkedin.com/in/natelapolicht/)
