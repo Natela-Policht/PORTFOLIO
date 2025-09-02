@@ -1,11 +1,14 @@
 # Natela Policht - PORTFOLIO
-### Hi there 👋
+### Hi there :wave:
 I am a software tester from Krakow
-<br>
-- [x] Transition to Software Testing in April 2024<br>
-- [x] Reported 600 bugs, resolved 1200+ issues<br>
-- [x] Love tracking logical errors and suggest solutions that improve product quality and UX<br>
-- [x] I taught myself HTML, CSS and I’m currently learning Python to develop my skills in test automation<br>
+
+<h4>:small_blue_diamond: About me in 30 seconds :small_blue_diamond:</h4>
+
+:white_check_mark: Combined technical support with process audits on the IT helpdesk<br>
+:white_check_mark: Transition to Software Testing in April 2024<br>
+:white_check_mark: Reported 600 bugs, resolved 1200+ issues<br>
+:white_check_mark: Love tracking logical errors and suggest solutions that improve product quality and UX<br>
+:white_check_mark: I taught myself HTML, CSS and I’m currently learning Python to develop my skills in test automation<br>
 
 
 Connect with me<br>
