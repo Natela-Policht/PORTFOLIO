@@ -17,7 +17,7 @@ Connect with me<br>
 <br>
 
 TABLE OF CONTENTS
-<hr>
+
 [BUG REPORT example](#bug-report-example) 
 
 ### BUG REPORT example
