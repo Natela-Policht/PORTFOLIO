@@ -17,8 +17,10 @@ Connect with me<br>
 <br>
 
 TABLE OF CONTENTS
+<hr>
 
-[BUG REPORT example](#bug-report-example) 
+
+:white_circle: [BUG REPORT example](#bug-report-example) 
 
 ### BUG REPORT example
 
