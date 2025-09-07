@@ -26,3 +26,4 @@ TABLE OF CONTENTS
 Test environment: AcademyBugs.com - web application<br>
 [Bug report – web application testing](bug-reports/bug-1.md)
 
+
