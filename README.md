@@ -24,6 +24,6 @@ TABLE OF CONTENTS
 
 ### BUG REPORT example
 Test environment: AcademyBugs.com - web application<br>
-[Bug report – web application testing](bug-reports)
+[Bug report – web application testing](https://github.com/Natela-Policht/PORTFOLIO/tree/main/bug-reports)
 
 
