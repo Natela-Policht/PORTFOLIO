@@ -1,6 +1,6 @@
-# Natela Policht - PORTFOLIO
+# PORTFOLIO
 ### Hi there :wave:
-I am a software tester from Krakow
+My name is Natela, I am a software tester from Krakow.
 
 <h4>:small_blue_diamond: About me in 30 seconds :small_blue_diamond:</h4>
 
