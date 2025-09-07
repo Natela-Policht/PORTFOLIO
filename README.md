@@ -23,4 +23,5 @@ TABLE OF CONTENTS
 :white_circle: [BUG REPORT example](#bug-report-example) 
 
 ### BUG REPORT example
-
+Test environment: AcademyBugs.com - web application
+Bug report - web application testing
