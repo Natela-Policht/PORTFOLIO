@@ -23,7 +23,7 @@ TABLE OF CONTENTS
 :white_circle: [BUG REPORT example](#bug-report-example) 
 
 ### BUG REPORT example
-Test environment: AcademyBugs.com - web application<br>
+Test environment: **AcademyBugs.com** - web application<br>
 [Bug report – web application testing](https://github.com/Natela-Policht/PORTFOLIO/tree/main/bug-reports)
 
 
