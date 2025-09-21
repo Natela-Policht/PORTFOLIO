@@ -20,10 +20,36 @@ TABLE OF CONTENTS
 <hr>
 
 
-:white_circle: [BUG REPORT example](#bug-report-example) 
+:white_circle: [BUG REPORT example](#bug-report-example) :white_circle: [COURSES](#courses)
 
 ### BUG REPORT example
 Test environment: **AcademyBugs.com** - web application<br>
 [Bug report – web application testing](https://github.com/Natela-Policht/PORTFOLIO/tree/main/bug-reports)
 
+### COURSES<br>
+August 2025<br>
+[Build a Website with HTML, CSS, and GitHub Pages Skill Path](https://www.codecademy.com/profiles/NateaPolicht/certificates/5cadfefe5f1de806e9704577)
+- HTML<br>
+- CSS<br>
+- Responsive Design<br>
+- GitHub Pages<br>
 
+March 2025<br>
+[Learn CSS Course](https://www.codecademy.com/profiles/NateaPolicht/certificates/9a5bb1fc45b4281af1fffec93b0aaf05)
+- CSS<br>
+
+February 2025<br>
+[Learn HTML Course](https://www.codecademy.com/profiles/NateaPolicht/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7)
+- HTML basics<br>
+
+January 2025<br>
+[Postman from scratch - REST API testing (Postman od podstaw - testowanie REST API)]
+- Postman
+- sending requests (GET, POST, PUT, DELETE)
+- defining environments
+- defining variables
+- REST API testing
+
+November 2025<br>
+[ChatGPT in software testing (ChatGPT w testowaniu oprogramowania)]
+- How to use ChatGPT in software testing
