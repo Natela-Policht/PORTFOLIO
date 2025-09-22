@@ -28,28 +28,33 @@ Test environment: **AcademyBugs.com** - web application<br>
 
 ### COURSES<br>
 August 2025<br>
-[Build a Website with HTML, CSS, and GitHub Pages Skill Path](https://www.codecademy.com/profiles/NateaPolicht/certificates/5cadfefe5f1de806e9704577)
+:sparkle: [Build a Website with HTML, CSS, and GitHub Pages Skill Path](https://www.codecademy.com/profiles/NateaPolicht/certificates/5cadfefe5f1de806e9704577)
 - HTML<br>
 - CSS<br>
 - Responsive Design<br>
 - GitHub Pages<br>
 
 March 2025<br>
-[Learn CSS Course](https://www.codecademy.com/profiles/NateaPolicht/certificates/9a5bb1fc45b4281af1fffec93b0aaf05)
+:sparkle: [Learn CSS Course](https://www.codecademy.com/profiles/NateaPolicht/certificates/9a5bb1fc45b4281af1fffec93b0aaf05)
 - CSS<br>
 
 February 2025<br>
-[Learn HTML Course](https://www.codecademy.com/profiles/NateaPolicht/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7)
+:sparkle: [Learn HTML Course](https://www.codecademy.com/profiles/NateaPolicht/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7)
 - HTML basics<br>
 
 January 2025<br>
-[Postman from scratch - REST API testing (Postman od podstaw - testowanie REST API)]
+:sparkle: [Postman from scratch - REST API testing (Postman od podstaw - testowanie REST API)](https://github.com/Natela-Policht/PORTFOLIO/blob/bf3c41002529abd9ddf0c935ac42f4bc5332ff35/UC-f7ecda8b-132d-4492-8d41-a6712180b1fc.jpg)
 - Postman
 - sending requests (GET, POST, PUT, DELETE)
 - defining environments
 - defining variables
 - REST API testing
 
-November 2025<br>
-[ChatGPT in software testing (ChatGPT w testowaniu oprogramowania)](https://github.com/Natela-Policht/PORTFOLIO/blob/bf3c41002529abd9ddf0c935ac42f4bc5332ff35/UC-94a55983-5c8a-43e3-983d-fc0690f32cc4.jpg)
+November 2024<br>
+:sparkle: [ChatGPT in software testing (ChatGPT w testowaniu oprogramowania)](https://github.com/Natela-Policht/PORTFOLIO/blob/bf3c41002529abd9ddf0c935ac42f4bc5332ff35/UC-94a55983-5c8a-43e3-983d-fc0690f32cc4.jpg)
 - How to use ChatGPT in software testing
+
+January 2024<br>
+:sparkle: [Build Your UX Portfolio](https://github.com/Natela-Policht/PORTFOLIO/blob/95120934ae10879438f8afbd75af2d4c0450426e/EN_Certificate%20of%20completion_Build%20Your%20UX%20Portfolio_Nate%C5%82a%20Policht.pdf)
+- UX design process
+- Good design practices
