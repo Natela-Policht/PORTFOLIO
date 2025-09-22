@@ -51,5 +51,5 @@ January 2025<br>
 - REST API testing
 
 November 2025<br>
-[ChatGPT in software testing (ChatGPT w testowaniu oprogramowania)]
+[ChatGPT in software testing (ChatGPT w testowaniu oprogramowania)](https://github.com/Natela-Policht/PORTFOLIO/blob/bf3c41002529abd9ddf0c935ac42f4bc5332ff35/UC-94a55983-5c8a-43e3-983d-fc0690f32cc4.jpg)
 - How to use ChatGPT in software testing
