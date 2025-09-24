@@ -31,7 +31,7 @@ August 2025<br>
 :sparkle: [Build a Website with HTML, CSS, and GitHub Pages Skill Path](https://www.codecademy.com/profiles/NateaPolicht/certificates/5cadfefe5f1de806e9704577)
 - HTML<br>
 - CSS<br>
-- Responsive Design<br>
+- responsive Design<br>
 - GitHub Pages<br>
 
 March 2025<br>
@@ -52,9 +52,25 @@ January 2025<br>
 
 November 2024<br>
 :sparkle: [ChatGPT in software testing (ChatGPT w testowaniu oprogramowania)](https://github.com/Natela-Policht/PORTFOLIO/blob/bf3c41002529abd9ddf0c935ac42f4bc5332ff35/UC-94a55983-5c8a-43e3-983d-fc0690f32cc4.jpg)
-- How to use ChatGPT in software testing
+- ChatGPT in software testing
 
 January 2024<br>
 :sparkle: [Build Your UX Portfolio](https://github.com/Natela-Policht/PORTFOLIO/blob/95120934ae10879438f8afbd75af2d4c0450426e/EN_Certificate%20of%20completion_Build%20Your%20UX%20Portfolio_Nate%C5%82a%20Policht.pdf)
 - UX design process
-- Good design practices
+- good design practices
+
+September 2023<br>
+:sparkle: [Complete Web & Mobile Designer in 2023: UI/UX, Figma, +more](https://www.udemy.com/certificate/UC-41a3db85-e253-434f-968a-494ba6a3f427/)
+- mobile application design
+- web design
+- Figma
+
+May 2023<br>
+:sparkle: [Practical software testing course (Praktyczny kurs testowania oprogramowania)](https://www.udemy.com/certificate/UC-719bdb34-dc47-49d8-85ec-21b173b54cd8/)
+- exploratory testing
+- DevTools
+- Postman - basics
+- using Jira to bug reporting
+- writing test cases
+- bug reporting
+- basic SQL
