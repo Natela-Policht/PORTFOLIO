@@ -20,11 +20,15 @@ TABLE OF CONTENTS
 <hr>
 
 
-:white_circle: [TEST PLAN example](#test-plan-example) :white_circle: [BUG REPORT example](#bug-report-example) :white_circle: [COURSES](#courses)
+:white_circle: [TEST PLAN example](#test-plan-example) :white_circle: [TEST CASES example](#test-cases-example) :white_circle: [BUG REPORT example](#bug-report-example) :white_circle: [COURSES](#courses)
 
 ### TEST PLAN example
 **AirSerbia.com** - web application<br>
 [Test Plan for the testing of the AirSerbia.com search engine component.](https://github.com/Natela-Policht/PORTFOLIO/blob/feature/test-plan/Test%20Plan.md)
+
+### TEST CASES example
+Test environment: **airserbia.com** - web application<br>
+[TEST CASES example](https://github.com/Natela-Policht/PORTFOLIO/blob/feature/test-plan/TEST%20CASES%20example.md)
 
 ### BUG REPORT example
 Test environment: **AcademyBugs.com** - web application<br>
