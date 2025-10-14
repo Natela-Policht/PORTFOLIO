@@ -28,7 +28,7 @@ TABLE OF CONTENTS
 
 ### TEST CASES example
 Test environment: **airserbia.com** - web application<br>
-[TEST CASES example](https://github.com/Natela-Policht/PORTFOLIO/blob/feature/test-plan/TEST%20CASES%20example.md)
+[TEST CASES - validation verification](https://github.com/Natela-Policht/PORTFOLIO/blob/feature/test-plan/TEST%20CASES%20example.md)
 
 ### BUG REPORT example
 Test environment: **AcademyBugs.com** - web application<br>
