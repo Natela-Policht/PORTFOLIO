@@ -20,7 +20,7 @@ TABLE OF CONTENTS
 <hr>
 
 
-:white_circle: [TEST PLAN example](#test-plan-example) :white_circle: [TEST CASES example](#test-cases-example) :white_circle: [BUG REPORT example](#bug-report-example) :white_circle: [COURSES](#courses)
+:white_circle: [TEST PLAN example](#test-plan-example) :white_circle: [TEST CASES example](#test-cases-example) :white_circle: [BUG REPORT example](#bug-report-example) :white_circle: [COURSES](#courses) :white_circle: [TOOLS](#tools) :white_circle: [TECH TOOLS](#tech-tools)
 
 ### TEST PLAN example
 **AirSerbia.com** - web application<br>
@@ -28,13 +28,14 @@ TABLE OF CONTENTS
 
 ### TEST CASES example
 Test environment: **airserbia.com** - web application<br>
-[TEST CASES - validation verification](https://github.com/Natela-Policht/PORTFOLIO/blob/feature/test-plan/TEST%20CASES%20example.md)
+[TEST CASES - validation verification](https://github.com/Natela-Policht/PORTFOLIO/blob/feature/test-plan/TEST%20CASES%20example.md)<br>
+[TEST CASES - verification of search engine logic](https://github.com/Natela-Policht/PORTFOLIO/blob/feature/test-plan/Verification%20of%20search%20engine%20logic.md)
 
 ### BUG REPORT example
 Test environment: **AcademyBugs.com** - web application<br>
-[Bug report – web application testing](https://github.com/Natela-Policht/PORTFOLIO/tree/main/bug-reports)
+[Bug report – web application testing](https://github.com/Natela-Policht/PORTFOLIO/tree/main/bug-reports)<br>
 
-### COURSES<br>
+# COURSES<br>
 August 2025<br>
 :sparkle: [Build a Website with HTML, CSS, and GitHub Pages Skill Path](https://www.codecademy.com/profiles/NateaPolicht/certificates/5cadfefe5f1de806e9704577)
 - HTML<br>
@@ -82,3 +83,21 @@ May 2023<br>
 - writing test cases
 - bug reporting
 - basic SQL
+
+# TOOLS<br>
+- **Jira** - a project management and issue-tracking tool
+- **GitHub** - a code hosting platform for collaboration and version control
+- **GIT** - a version control system used to track code changes
+- **Postman** - an API platform for developers to design, build, test, and collaborate on APIs
+- **Visual Studio Code** -  a source-code editor
+- **BrowserStack** - a software testing platform that provides tools for testing websites and mobile applications across multiple devices
+- **ShareX** - a screen recorder app
+- **PicPick** - a screen capture and recording tool
+- **Slack** - a team communication platform
+
+# TECH TOOLS<br>
+- knowledge of testing procedures and the creation of test documentation
+- DevTools knowledge
+- REST API testing
+- HTML/CSS knowledge
+- advanced English
