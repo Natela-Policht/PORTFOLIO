@@ -1,8 +1,17 @@
-# PORTFOLIO
+# SOFTWARE TESTER PORTFOLIO
+
+TABLE OF CONTENTS
+<hr>
+
+
+:white_circle: [ABOUT ME](#about-me) :white_circle: [TESTING PROJECTS](#testing-projects) :white_circle: [TEST PLAN example](#test-plan-example) :white_circle: [TEST CASES example](#test-cases-example) :white_circle: [BUG REPORT example](#bug-report-example) :white_circle: [COURSES](#courses) <br>:white_circle: [TOOLS](#tools) :white_circle: [TECH TOOLS](#tech-tools) :white_circle: [TESTING INSIGHTS AND BLOGS](#testing-insights-and-blogs)
+<hr>
+
+# ABOUT ME
 ### Hi there :wave:
 My name is Natela, I am a software tester from Krakow.
 
-<h4>:small_blue_diamond: About me in 30 seconds :small_blue_diamond:</h4>
+<h4>:small_blue_diamond: 30-Second Introduction :small_blue_diamond:</h4>
 
 :white_check_mark: Combined technical support with process audits on the IT helpdesk<br>
 :white_check_mark: Transition to Software Testing in April 2024<br>
@@ -16,12 +25,18 @@ Connect with me<br>
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/natelapolicht/)<br>
 <br>
 
-TABLE OF CONTENTS
-<hr>
+# PROFESSIONAL PROJECTS
+**_Claims Net_ - Bodyshop management system**, web and mobile application<br>
+(Since April 2024)<br>
+- designing and executing test cases<br>
+- exploratory testing<br>
+- retests<br>
+- regression testing<br>
+- integration testing<br>
+- API testing (Postman)<br>
+- tracking and reporting bugs<br>
 
-
-:white_circle: [TEST PLAN example](#test-plan-example) :white_circle: [TEST CASES example](#test-cases-example) :white_circle: [BUG REPORT example](#bug-report-example) :white_circle: [COURSES](#courses) :white_circle: [TOOLS](#tools) :white_circle: [TECH TOOLS](#tech-tools)
-
+# TESTING PROJECTS
 ### TEST PLAN example
 **AirSerbia.com** - web application<br>
 [Test Plan for the testing of the AirSerbia.com search engine component.](https://github.com/Natela-Policht/PORTFOLIO/blob/feature/test-plan/Test%20Plan.md)
@@ -101,3 +116,10 @@ May 2023<br>
 - REST API testing
 - HTML/CSS knowledge
 - advanced English
+
+# TESTING INSIGHTS AND BLOGS<br>
+:arrow_right: [Tester - Milena Bednarczyk](https://tester.milenabednarczyk.pl/) <br>
+:arrow_right: [Testerzy.pl](https://testerzy.pl/) <br>
+:arrow_right: [Software Testing Help](https://www.softwaretestinghelp.com/) <br>
+:arrow_right: [Rainforset QA Blog](https://www.rainforestqa.com/blog/) <br>
+
