@@ -4,7 +4,7 @@ TABLE OF CONTENTS
 <hr>
 
 
-:white_circle: [ABOUT ME](#about-me) :white_circle: [TESTING PROJECTS](#testing-projects) :white_circle: [TEST PLAN example](#test-plan-example) :white_circle: [TEST CASES example](#test-cases-example) :white_circle: [BUG REPORT example](#bug-report-example) :white_circle: [COURSES](#courses) <br>:white_circle: [TOOLS](#tools) :white_circle: [TECH TOOLS](#tech-tools) :white_circle: [TESTING INSIGHTS AND BLOGS](#testing-insights-and-blogs)
+:white_circle: [ABOUT ME](#about-me) :white_circle: [TESTING PROJECTS](#testing-projects) :white_circle: [TEST PLAN example](#test-plan-example) :white_circle: [TEST CASES example](#test-cases-example) :white_circle: [BUG REPORT example](#bug-report-example) :white_circle: [COURSES](#courses) :white_circle: [TOOLS](#tools) :white_circle: [TECH TOOLS](#tech-tools) :white_circle: [TESTING INSIGHTS AND BLOGS](#testing-insights-and-blogs)
 <hr>
 
 # ABOUT ME
@@ -27,7 +27,7 @@ Connect with me<br>
 
 # PROFESSIONAL PROJECTS
 **_Claims Net_ - Bodyshop management system**, web and mobile application<br>
-(Since April 2024)<br>
+(since April 2024)<br>
 - designing and executing test cases<br>
 - exploratory testing<br>
 - retests<br>
@@ -35,6 +35,12 @@ Connect with me<br>
 - integration testing<br>
 - API testing (Postman)<br>
 - tracking and reporting bugs<br>
+
+**_Weezycast_ - Webinar and online conferencing software**, web application<br>
+(since October 2025)<br>
+- conducting functional tests on various real devices
+- testing connection quality (audio and video)
+- tracking and reporting bugs
 
 # TESTING PROJECTS
 ### TEST PLAN example
@@ -122,4 +128,9 @@ May 2023<br>
 :arrow_right: [Testerzy.pl](https://testerzy.pl/) <br>
 :arrow_right: [Software Testing Help](https://www.softwaretestinghelp.com/) <br>
 :arrow_right: [Rainforset QA Blog](https://www.rainforestqa.com/blog/) <br>
+:arrow_right: [jaktestowac.pl](https://jaktestowac.pl/)
+
+<hr>
+
+<img width="1200" height="900" alt="Group 8914 (1)" src="https://github.com/user-attachments/assets/254d3bd2-777f-41cd-958b-2fb3439ed23b" />
 
