@@ -10,7 +10,7 @@
   - Opera
 - Browser cache and cookies are cleared before testing
 - The tester has access to the airserbia.com website
-- The tester is not logged into any user account (unless specified otherwise in the test steps)(br)
+- The tester is not logged into any user account (unless specified otherwise in the test steps)
 
 <table aria-label="Tabela przykładowa">
   <thead>
