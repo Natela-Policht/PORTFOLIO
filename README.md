@@ -1,15 +1,15 @@
-# SOFTWARE TESTER PORTFOLIO
+# SOFTWARE TESTER PORTFOLIO - Nateła Policht
 
 TABLE OF CONTENTS
 <hr>
 
 
-:white_circle: [ABOUT ME](#about-me) :white_circle: [TESTING PROJECTS](#testing-projects) :white_circle: [TEST PLAN example](#test-plan-example) :white_circle: [TEST CASES example](#test-cases-example) :white_circle: [BUG REPORT example](#bug-report-example) :white_circle: [COURSES](#courses) :white_circle: [TOOLS](#tools) :white_circle: [TECH TOOLS](#tech-tools) :white_circle: [TESTING INSIGHTS AND BLOGS](#testing-insights-and-blogs)
+:white_circle: [ABOUT ME](#about-me) :white_circle: [TESTING PROJECTS](#testing-projects) :white_circle: [TEST PLAN example](#test-plan-example) :white_circle: [TEST CASES example](#test-cases-example) :white_circle: [BUG REPORT example](#bug-report-example) :white_circle: [COURSES](#courses) :white_circle: [TOOLS](#tools) :white_circle: [TECH SKILLS](#tech-skills) :white_circle: [TESTING INSIGHTS AND BLOGS](#testing-insights-and-blogs) :white_circle: [THE CODDING APPS](#the-coding-apps)
 <hr>
 
 # ABOUT ME
 ### Hi there :wave:
-My name is Natela, I am a software tester from Krakow.
+My name is Nateła, I am a software tester from Krakow.
 
 <h4>:small_blue_diamond: 30-Second Introduction :small_blue_diamond:</h4>
 
@@ -116,7 +116,7 @@ May 2023<br>
 - **PicPick** - a screen capture and recording tool
 - **Slack** - a team communication platform
 
-# TECH TOOLS<br>
+# TECH SKILLS<br>
 - knowledge of testing procedures and the creation of test documentation
 - DevTools knowledge
 - REST API testing
@@ -129,6 +129,20 @@ May 2023<br>
 :arrow_right: [Software Testing Help](https://www.softwaretestinghelp.com/) <br>
 :arrow_right: [Rainforset QA Blog](https://www.rainforestqa.com/blog/) <br>
 :arrow_right: [jaktestowac.pl](https://jaktestowac.pl/)
+
+# SOFT SKILLS
+:dart: precision and attention to detail<br>
+:chart_with_downwards_trend: analytical thinking<br>
+:basecampy: teamwork / collaboration<br>
+:hourglass_flowing_sand: work organization / prioritization<br>
+:balance_scale: curiosity and assertiveness in QA<br>
+:jigsaw: willingness to learn<br>
+
+
+# THE CODING APPS
+- [W3Schools](https://www.w3schools.com/) <br>
+- [Codecademy](https://www.codecademy.com/) <br>
+- [CodePen](https://codepen.io/pen/) <br>
 
 <hr>
 
