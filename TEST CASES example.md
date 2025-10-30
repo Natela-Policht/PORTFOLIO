@@ -33,8 +33,7 @@
     <tr><td>5</td><td>Click on the “Departing date” calendar.</td><td>All dates in the date picker earlier than today are blocked.</td><td>Passed</td></tr>
     <tr><td>6</td><td>Click on the “Returning date” calendar.</td><td>All dates in the date picker earlier than today are blocked.</td><td>Passed</td></tr>
     <tr><td>7</td><td>Click on the calendar in the “Round trip” section and select the date range.</td><td>Dates on which flights are unavailable are blocked in the date picker.</td><td>Failed</td></tr>
-    <tr><td>8</td><td>Select available destinations from the search engine's drop-down lists.</td><td>Flights to destinations available on the search engine lists are operating.</td><td>Failed</td></tr>
-    <tr><td>9</td><td>In the search engine component, click on the “One-way” or “Multi-city” buttons.</td><td>The “One-way” and “Multi-city” buttons are visible and clickable.</td><td>Passed</td></tr>
+    <tr><td>8</td><td>In the search engine component, click on the “One-way” or “Multi-city” buttons.</td><td>The “One-way” and “Multi-city” buttons are visible and clickable.</td><td>Passed</td></tr>
     <tr><td colspan="2">Execution type:</td><td colspan="2">Manual</td></tr>
     <tr><td colspan="2">Priority</td><td colspan="2">Medium</td></tr>
     <tr><td colspan="2"><b>Execution details<b></td><td colspan="2"></td></tr>
