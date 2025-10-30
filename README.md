@@ -4,7 +4,7 @@ TABLE OF CONTENTS
 <hr>
 
 
-:white_circle: [ABOUT ME](#about-me) :white_circle: [TESTING PROJECTS](#testing-projects) :white_circle: [TEST PLAN example](#test-plan-example) :white_circle: [TEST CASES example](#test-cases-example) :white_circle: [BUG REPORT example](#bug-report-example) :white_circle: [COURSES](#courses) :white_circle: [TOOLS](#tools) :white_circle: [TECH SKILLS](#tech-skills) :white_circle: [TESTING INSIGHTS AND BLOGS](#testing-insights-and-blogs) :white_circle: [THE CODDING APPS](#the-coding-apps)
+:white_circle: [ABOUT ME](#about-me) :white_circle: [TESTING PROJECTS](#testing-projects) :white_circle: [TEST PLAN example](#test-plan-example) :white_circle: [TEST CASES example](#test-cases-example) :white_circle: [TEST EXECUTION REPORT IN TESTLINK example](#test-execution-report-in-testlink-example) :white_circle: [BUG REPORT example](#bug-report-example) :white_circle: [COURSES](#courses) :white_circle: [TOOLS](#tools) :white_circle: [TECH SKILLS](#tech-skills) :white_circle: [TESTING INSIGHTS AND BLOGS](#testing-insights-and-blogs) :white_circle: [THE CODDING APPS](#the-coding-apps)
 <hr>
 
 # ABOUT ME
@@ -43,17 +43,21 @@ Connect with me<br>
 - tracking and reporting bugs
 
 # TESTING PROJECTS
-### TEST PLAN example
-**AirSerbia.com** - web application<br>
+- ### TEST PLAN example
+Test environment: [AirSerbia.com](https://www.airserbia.com/en_PL) - web application<br>
 [Test Plan for the testing of the AirSerbia.com search engine component.](https://github.com/Natela-Policht/PORTFOLIO/blob/feature/test-plan/Test%20Plan.md)
 
-### TEST CASES example
-Test environment: **airserbia.com** - web application<br>
+- ### TEST CASES example
+Test environment: [AirSerbia.com](https://www.airserbia.com/en_PL) - web application<br>
 [TEST CASES - validation verification](https://github.com/Natela-Policht/PORTFOLIO/blob/feature/test-plan/TEST%20CASES%20example.md)<br>
 [TEST CASES - verification of search engine logic](https://github.com/Natela-Policht/PORTFOLIO/blob/feature/test-plan/Verification%20of%20search%20engine%20logic.md)
 
-### BUG REPORT example
-Test environment: **AcademyBugs.com** - web application<br>
+- ### TEST EXECUTION REPORT IN TESTLINK example<br>
+Test environment: [AirSerbia.com](https://www.airserbia.com/en_PL) - web application<br>
+[TEST EXECUTION REPORT](https://github.com/Natela-Policht/PORTFOLIO/blob/assets/TestLink%201.9.20%20%5BDEV%5D.pdf)
+
+- ### BUG REPORT example
+Test environment: [AcademyBugs.com](https://academybugs.com/) - web application<br>
 [Bug report – web application testing](https://github.com/Natela-Policht/PORTFOLIO/tree/main/bug-reports)<br>
 
 # COURSES<br>
