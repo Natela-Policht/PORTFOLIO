@@ -4,7 +4,7 @@ TABLE OF CONTENTS
 <hr>
 
 
-:white_circle: [ABOUT ME](#about-me) :white_circle: [TESTING PROJECTS](#testing-projects) :white_circle: [TEST PLAN example](#test-plan-example) :white_circle: [TEST CASES example](#test-cases-example) :white_circle: [TEST EXECUTION REPORT IN TESTLINK example](#test-execution-report-in-testlink-example) :white_circle: [BUG REPORT example](#bug-report-example) :white_circle: [COURSES](#courses) :white_circle: [TOOLS](#tools) :white_circle: [TECH SKILLS](#tech-skills) :white_circle: [TESTING INSIGHTS AND BLOGS](#testing-insights-and-blogs) :white_circle: [THE CODDING APPS](#the-coding-apps)
+:white_circle: [ABOUT ME](#about-me) :white_circle: [TESTING PROJECTS](#testing-projects) :white_circle: [TEST PLAN example](#test-plan-example) :white_circle: [TEST CASES example](#test-cases-example) :white_circle: [TEST EXECUTION REPORT IN TESTLINK example](#test-execution-report-in-testlink-example) :white_circle: [BUG REPORT example](#bug-report-example) :white_circle: [API testing example](#api-testing-example) :white_circle: [COURSES](#courses) :white_circle: [TOOLS](#tools) :white_circle: [TECH SKILLS](#tech-skills) :white_circle: [TESTING INSIGHTS AND BLOGS](#testing-insights-and-blogs) :white_circle: [THE CODDING APPS](#the-coding-apps)
 <hr>
 
 # ABOUT ME
@@ -59,6 +59,16 @@ Test environment: [AirSerbia.com](https://www.airserbia.com/en_PL) - web applica
 - ### BUG REPORT example
 Test environment: [AcademyBugs.com](https://academybugs.com/) - web application<br>
 [Bug report – web application testing](https://github.com/Natela-Policht/PORTFOLIO/tree/main/bug-reports)<br>
+
+- ### API testing example
+Test environment: [JSON Placeholder](https://jsonplaceholder.typicode.com/) - free fake and reliable API for testing and prototyping<br>
+ 	**1. Purpose of the tests**<br>
+  The purpose of the tests was to verify the correct operation of the API endpoints for testing and prototyping application, including creating a new post, updating a user, and reading a post.<br>
+  **2. Tools**<br>
+  Postman (collections, environment variables)<br>
+  **3. Sample test cases**<br>
+  :arrow_forward: [Check whether the API allows updating the email address of an existing user (ID = 3).](https://github.com/Natela-Policht/PORTFOLIO/blob/API-Testing/API%20testing%20sample%20project)
+
 
 # COURSES<br>
 August 2025<br>
