@@ -4,7 +4,7 @@ TABLE OF CONTENTS
 <hr>
 
 
-:white_circle: [ABOUT ME](#about-me) :white_circle: [TESTING PROJECTS](#testing-projects) :white_circle: [TEST PLAN example](#test-plan-example) :white_circle: [TEST CASES example](#test-cases-example) :white_circle: [TEST EXECUTION REPORT IN TESTLINK example](#test-execution-report-in-testlink-example) :white_circle: [BUG REPORT example](#bug-report-example) :white_circle: [API testing example](#api-testing-example) :white_circle: [COURSES](#courses) :white_circle: [TOOLS](#tools) :white_circle: [TECH SKILLS](#tech-skills) :white_circle: [TESTING INSIGHTS AND BLOGS](#testing-insights-and-blogs) :white_circle: [THE CODDING APPS](#the-coding-apps)
+:white_circle: [ABOUT ME](#about-me) :white_circle: [TESTING PROJECTS](#testing-projects) :white_circle: [TEST PLAN example](#test-plan-example) :white_circle: [TEST CASES example](#test-cases-example) :white_circle: [TEST EXECUTION REPORT IN TESTLINK example](#test-execution-report-in-testlink-example) :white_circle: [BUG REPORT example](#bug-report-example) :white_circle: [API TESTING example](#api-testing-example) :white_circle: [COURSES](#courses) :white_circle: [TOOLS](#tools) :white_circle: [TECH SKILLS](#tech-skills) :white_circle: [TESTING INSIGHTS AND BLOGS](#testing-insights-and-blogs) :white_circle: [THE CODDING APPS](#the-coding-apps)
 <hr>
 
 # ABOUT ME
