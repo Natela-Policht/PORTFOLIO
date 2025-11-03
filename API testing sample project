@@ -6,7 +6,7 @@ Body:
     "id": 3,
     "name": "Clementine Bauch",
     "username": "Samantha",
-    "email": "Nathan@yesenia.net",
+    "email": "test@test.net",
     "address": {
         "street": "Douglas Extension",
         "suite": "Suite 847",
