@@ -43,6 +43,7 @@ Connect with me<br>
 - tracking and reporting bugs
 
 # TESTING PROJECTS
+This section contains materials from a sample testing project, including a test plan, test cases, and a test execution report. It also features example bug reports created in Jira and a collection of API tests performed in Postman.<br>
 - ### TEST PLAN example
 Test environment: [AirSerbia.com](https://www.airserbia.com/en_PL) - web application<br>
 [Test Plan for the testing of the AirSerbia.com search engine component.](https://github.com/Natela-Policht/PORTFOLIO/blob/feature/test-plan/Test%20Plan.md)
@@ -67,7 +68,8 @@ Test environment: [JSON Placeholder](https://jsonplaceholder.typicode.com/) - fr
   **2. Tools**<br>
   Postman (collections, environment variables)<br>
   **3. Sample test cases**<br>
-  :arrow_forward: [Check whether the API allows updating the email address of an existing user (ID = 3).](https://github.com/Natela-Policht/PORTFOLIO/blob/API-Testing/API%20testing%20sample%20project)
+  :arrow_forward: [Checks whether the API allows updating the email address of an existing user (ID = 3)](https://github.com/Natela-Policht/PORTFOLIO/blob/API-Testing/API%20testing%20sample%20project%20PUT.md)<br>
+  :arrow_forward: [Checks if the API allows the creation of a new post and returns the correct response](https://github.com/Natela-Policht/PORTFOLIO/blob/API-Testing/API%20testing%20sample%20project%20POST.md)
 
 
 # COURSES<br>
