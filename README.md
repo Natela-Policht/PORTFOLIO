@@ -68,7 +68,8 @@ Test environment: [JSON Placeholder](https://jsonplaceholder.typicode.com/) - fr
   **2. Tools**<br>
   Postman (collections, environment variables)<br>
   **3. Sample test cases**<br>
-  :arrow_forward: [Checks whether the API allows updating the email address of an existing user (ID = 3)](https://github.com/Natela-Policht/PORTFOLIO/blob/API-Testing/API%20testing%20sample%20project%20PUT.md)<br>
+  :arrow_forward: [Checks whether the API correctly returns the list of comments assigned to a specific post.](https://github.com/Natela-Policht/PORTFOLIO/blob/API-Testing/API%20testing%20sample%20project%20GET.md)<br>
+  :arrow_forward: [Checks whether the API allows updating the email address of an existing user](https://github.com/Natela-Policht/PORTFOLIO/blob/API-Testing/API%20testing%20sample%20project%20PUT.md)<br>
   :arrow_forward: [Checks if the API allows the creation of a new post and returns the correct response](https://github.com/Natela-Policht/PORTFOLIO/blob/API-Testing/API%20testing%20sample%20project%20POST.md)
 
 
