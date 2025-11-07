@@ -4,7 +4,7 @@ TABLE OF CONTENTS
 <hr>
 
 
-:white_circle: [ABOUT ME](#about-me) :white_circle: [TESTING PROJECTS](#testing-projects) :white_circle: [TEST PLAN example](#test-plan-example) :white_circle: [TEST CASES example](#test-cases-example) :white_circle: [TEST EXECUTION REPORT IN TESTLINK example](#test-execution-report-in-testlink-example) :white_circle: [BUG REPORT example](#bug-report-example) :white_circle: [API TESTING example](#api-testing-example) :white_circle: [COURSES](#courses) :white_circle: [TOOLS](#tools) :white_circle: [TECH SKILLS](#tech-skills) :white_circle: [TESTING INSIGHTS AND BLOGS](#testing-insights-and-blogs) :white_circle: [THE CODDING APPS](#the-coding-apps)
+:white_circle: [ABOUT ME](#about-me) :white_circle: [PROFESSIONAL PROJECTS](#professional-projects) :white_circle: [TESTING PROJECTS](#testing-projects) :white_circle: [TEST PLAN example](#test-plan-example) :white_circle: [TEST CASES example](#test-cases-example) :white_circle: [TEST EXECUTION REPORT IN TESTLINK example](#test-execution-report-in-testlink-example) :white_circle: [BUG REPORT example](#bug-report-example) :white_circle: [API TESTING example](#api-testing-example) :white_circle: [COURSES](#courses) :white_circle: [TOOLS](#tools) :white_circle: [TECH SKILLS](#tech-skills) :white_circle: [TESTING INSIGHTS AND BLOGS](#testing-insights-and-blogs) :white_circle: [THE CODDING APPS](#the-coding-apps)
 <hr>
 
 # ABOUT ME
@@ -46,16 +46,16 @@ Connect with me<br>
 This section contains materials from a sample testing project, including a test plan, test cases, and a test execution report. It also features example bug reports created in Jira and a collection of API tests performed in Postman.<br>
 - ### TEST PLAN example
 Test environment: [AirSerbia.com](https://www.airserbia.com/en_PL) - web application<br>
-[Test Plan for the testing of the AirSerbia.com search engine component.](https://github.com/Natela-Policht/PORTFOLIO/blob/feature/test-plan/Test%20Plan.md)
+[Test plan for the testing of the AirSerbia.com search engine component](https://github.com/Natela-Policht/PORTFOLIO/blob/feature/test-plan/Test%20Plan.md)
 
 - ### TEST CASES example
 Test environment: [AirSerbia.com](https://www.airserbia.com/en_PL) - web application<br>
-[TEST CASES - validation verification](https://github.com/Natela-Policht/PORTFOLIO/blob/feature/test-plan/TEST%20CASES%20example.md)<br>
-[TEST CASES - verification of search engine logic](https://github.com/Natela-Policht/PORTFOLIO/blob/feature/test-plan/Verification%20of%20search%20engine%20logic.md)
+[Test cases - validation verification](https://github.com/Natela-Policht/PORTFOLIO/blob/feature/test-plan/TEST%20CASES%20example.md)<br>
+[Test cases - verification of search engine logic](https://github.com/Natela-Policht/PORTFOLIO/blob/feature/test-plan/Verification%20of%20search%20engine%20logic.md)
 
 - ### TEST EXECUTION REPORT IN TESTLINK example<br>
 Test environment: [AirSerbia.com](https://www.airserbia.com/en_PL) - web application<br>
-[TEST EXECUTION REPORT](https://github.com/Natela-Policht/PORTFOLIO/blob/assets/TestLink%201.9.20%20%5BDEV%5D.pdf)
+[Test execution report](https://github.com/Natela-Policht/PORTFOLIO/blob/assets/TestLink%201.9.20%20%5BDEV%5D.pdf)
 
 - ### BUG REPORT example
 Test environment: [AcademyBugs.com](https://academybugs.com/) - web application<br>
@@ -66,9 +66,9 @@ Test environment: [JSON Placeholder](https://jsonplaceholder.typicode.com/) - fr
  	**1. Purpose of the tests**<br>
   The purpose of the tests was to verify the correct operation of the API endpoints for testing and prototyping application, including creating a new post, updating a user, and reading a post.<br>
   **2. Tools**<br>
-  Postman (collections, environment variables)<br>
+  Postman (collections, environment variables).<br>
   **3. Sample test cases**<br>
-  :arrow_forward: [Checks whether the API correctly returns the list of comments assigned to a specific post.](https://github.com/Natela-Policht/PORTFOLIO/blob/API-Testing/API%20testing%20sample%20project%20GET.md)<br>
+  :arrow_forward: [Checks whether the API correctly returns the list of comments assigned to a specific post](https://github.com/Natela-Policht/PORTFOLIO/blob/API-Testing/API%20testing%20sample%20project%20GET.md)<br>
   :arrow_forward: [Checks whether the API allows updating the email address of an existing user](https://github.com/Natela-Policht/PORTFOLIO/blob/API-Testing/API%20testing%20sample%20project%20PUT.md)<br>
   :arrow_forward: [Checks if the API allows the creation of a new post and returns the correct response](https://github.com/Natela-Policht/PORTFOLIO/blob/API-Testing/API%20testing%20sample%20project%20POST.md)
 
