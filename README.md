@@ -15,7 +15,7 @@ My name is Nateła, I am a software tester from Krakow.
 
 :white_check_mark: Combined technical support with process audits on the IT helpdesk<br>
 :white_check_mark: Transition to Software Testing in April 2024<br>
-:white_check_mark: Reported 600 bugs, resolved 1200+ issues<br>
+:white_check_mark: Reported over 600 bugs, resolved 1200+ issues<br>
 :white_check_mark: Love tracking logical errors and suggest solutions that improve product quality and UX<br>
 :white_check_mark: I taught myself HTML, CSS and I’m currently learning Python to develop my skills in test automation<br>
 
